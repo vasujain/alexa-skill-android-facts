@@ -1,7 +1,7 @@
 {
-  "name": "skill-sample-nodejs-fact-i18n",
+  "name": "alexa-skill-android-facts",
   "version": "1.0.0",
-  "description": "I18n version of fact skill.",
+  "description": "Android fact skill.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,9 +9,10 @@
   "keywords": [
     "alexa",
     "skill",
-    "fact"
+    "fact",
+    "android"
   ],
-  "author": "Amazon.com",
+  "author": "Vasu Jain",
   "license": "Apache-2.0",
   "dependencies": {
     "alexa-sdk": "^1.0.6"

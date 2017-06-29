@@ -1,0 +1,20 @@
+GetNewFactIntent a fact
+GetNewFactIntent a android fact
+GetNewFactIntent a android fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a android fact
+GetNewFactIntent tell me an android fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me an android fact
+GetNewFactIntent give me a android fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me an android trivia
+GetNewFactIntent tell me a android trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a android trivia
+GetNewFactIntent give me an android trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some android information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent android fact

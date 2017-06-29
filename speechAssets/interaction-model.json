@@ -1,36 +1,35 @@
 {
   "intents": [
     {
-      "name": "AMAZON.CancelIntent",  
+      "intent": "GetNewFactIntent",
+      "samples": [
+        "a fact",
+        "a android fact",
+        "tell me a fact",
+        "tell me a android fact",
+        "give me a fact",
+        "give me a android fact",
+        "tell me trivia",
+        "tell me a android trivia",
+        "give me trivia",
+        "give me a android trivia",
+        "give me some information",
+        "give me some android information",
+        "tell me something",
+        "give me something"
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent",  
       "samples": []  
     },
     {
-      "name": "AMAZON.HelpIntent",
-      "samples": []
+      "intent": "AMAZON.StopIntent",  
+      "samples": []  
     },
     {
-      "name": "AMAZON.StopIntent",
-      "samples": []
-    },
-    {
-      "name": "GetNewFactIntent",
-      "samples": [
-        "a fact",
-        "a space fact",
-        "tell me a fact",
-        "tell me a space fact",
-        "give me a fact",
-        "give me a space fact",
-        "tell me trivia",
-        "tell me a space trivia",
-        "give me trivia",
-        "give me a space trivia",
-        "give me some information",
-        "give me some space information",
-        "tell me something",
-        "give me something"
-      ],
-      "slots": []
+      "intent": "AMAZON.CancelIntent",  
+      "samples": []  
     }
   ]
 }
